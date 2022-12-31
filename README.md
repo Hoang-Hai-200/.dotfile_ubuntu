@@ -6,6 +6,7 @@ package ubuntu :
     zsh => ohmyzsh => powerlevel10k
     ranger
     bpytop
+    awesome
 
 
 
