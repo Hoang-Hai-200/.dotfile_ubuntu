@@ -7,6 +7,7 @@ package ubuntu :
     ranger
     bpytop
     awesome
+    bottom
 
 
 
