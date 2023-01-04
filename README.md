@@ -5,7 +5,7 @@ package ubuntu :
     lsd
     zsh => ohmyzsh => powerlevel10k
     ranger
-    bpytop
+    bpytop  #https://blog.eldernode.com/install-bpytop-on-ubuntu-centos-debian/
     awesome
     bottom
     Tree #https://installati.one/install-tree-ubuntu-22-04/
