@@ -8,7 +8,8 @@ package ubuntu :
     bpytop
     awesome
     bottom
-
+    Tree #https://installati.one/install-tree-ubuntu-22-04/
+    
 
 
  ************************************************** Nvim
