@@ -4,9 +4,8 @@ package ubuntu :
     Tmux
     lsd
     zsh => ohmyzsh => powerlevel10k
-    ranger
+    ranger  #https://vitux.com/how-to-install-ranger-terminal-file-manager-on-linux/
     bpytop  #https://blog.eldernode.com/install-bpytop-on-ubuntu-centos-debian/
-    awesome
     bottom
     Tree #https://installati.one/install-tree-ubuntu-22-04/
     
@@ -20,23 +19,6 @@ package ubuntu :
 ├── map.vim
 ├── plugged
 │   ├── NeoSolarized
-│   ├── auto-pairs
-│   ├── coc.nvim
-│   ├── emmet-vim
-│   ├── fzf
-│   ├── fzf.vim
-│   ├── nerdcommenter
-│   ├── nerdtree
-│   ├── nerdtree-devicons-syntax
-│   ├── nerdtree-git-plugin
-│   ├── vim-airline
-│   ├── vim-airline-themes
-│   ├── vim-closetag
-│   ├── vim-devicons
-│   ├── vim-floaterm
-│   ├── vim-fugitive
-│   ├── vim-nerdtree-sync
-│   ├── vim-nerdtree-syntax-highlight
 │   └── vista.vim
 └── setting
     ├── airline.vim
