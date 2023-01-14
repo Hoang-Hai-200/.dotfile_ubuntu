@@ -42,6 +42,7 @@ call plug#begin("~/.config/nvim/plugged")
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'
 
+"https://www.erickpatrick.net/blog/adding-syntax-highlighting-to-fzf.vim-preview-window
     Plug 'junegunn/fzf',{ 'do': { -> fzf#install() } } 			" Fuzzy finder 
     Plug 'junegunn/fzf.vim'    
     Plug 'ryanoasis/vim-devicons'                  " Icon
