@@ -82,7 +82,7 @@ plugins=(git zsh-autosuggestions web-search copypath copyfile zsh-syntax-highlig
 #git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 #git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 #git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions
-#git clone https://github.com/hlissner/zsh-autopair ~/.zsh-autopair ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins
+#git clone https://github.com/hlissner/zsh-autopair ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-autopair
 
 source $ZSH/oh-my-zsh.sh
 source ~/.oh-my-zsh/custom/plugins/zsh-autopair/autopair.zsh
