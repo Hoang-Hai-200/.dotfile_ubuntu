@@ -29,3 +29,7 @@ package ubuntu :
 ********************************* Tmux
     ~/.tmux.conf
     ~/.tmux.powerline.conf
+
+
+install lsd :
+    sudo dpkg -i lsd-musl_0.23.1_amd64.deb
