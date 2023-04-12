@@ -33,3 +33,11 @@ package ubuntu :
 
 install lsd :
     sudo dpkg -i lsd-musl_0.23.1_amd64.deb
+    
+    
+    
+install fzf :
+    install fd (using npm)
+    install fzf :
+        - for OS using git
+        - for vim
