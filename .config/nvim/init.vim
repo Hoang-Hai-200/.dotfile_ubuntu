@@ -21,7 +21,7 @@ call plug#begin("~/.config/nvim/plugged")
 "   Plug 'edkolev/tmuxline.vim'
     Plug 'preservim/nerdtree'
     Plug 'Xuyuanp/nerdtree-git-plugin'                 " Git status
-    Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
+"    Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
     Plug 'unkiwii/vim-nerdtree-sync'
     Plug 'vwxyutarooo/nerdtree-devicons-syntax'
 	
